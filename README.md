@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Estou cursando Engenharia de Software<br>💻Estudante de JavaScript<br>
+💻Estou cursando Engenharia de Software<br>💻Estudante de Programação<br>
 
 
 ## 🌐 Socials:
